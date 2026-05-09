@@ -1,0 +1,9 @@
+;; Eww-Audio-manager/yuck/widgets.yuck
+
+(defwidget main_layout []
+  (box :class "main-container"
+       :orientation "h"
+       :space-evenly false
+    (label :text "Dj, el sistema esta listo." :class "welcome-text")
+  )
+)

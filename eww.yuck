@@ -1,0 +1,7 @@
+;; Eww-Audio-Manager/eww.yuck
+
+;; Importacion de los archivos de la carpeta yuck
+(include "./yuck/widgets.yuck")
+(include "./yuck/windows.yuck")
+
+

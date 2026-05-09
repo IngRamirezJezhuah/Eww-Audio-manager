@@ -1,0 +1,11 @@
+;; Eww-Audio-Manager/yuck/window.yuck
+
+(defwindow audio-manager
+  :monitor 0          ;;cambiar segun el monitor
+  :geometry (geometry :x "20px"
+                      :y "20px"
+                      :anchor "top left")
+  :staking "fg"         ;; fg para que este al frente
+  :windowtype "dock"    ;; esta chingadera para que se trate como panel
+  :wm-ignore false      ;; Esta deja que el Wm lo use me sirve para el manager
+  (main_layout)) ;;llama al widget principal

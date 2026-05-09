@@ -1,0 +1,4 @@
+Hay que instalar las siguientes dependencias para la gente
+
+- Eww + rust
+- sass

@@ -1,0 +1,17 @@
+/*importacion de las paletas de variables.scss*/
+/* Zona de importacion de estilos y otras fregaderas */
+/* Paleta de colores basada en la imagen */
+.main-container {
+  background-color: rgba(20, 20, 20, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  padding: 20px;
+  font-family: "JetBrais Mono", "Roboto", sans-serif;
+  color: #fff;
+  box-sahdow: 0 4px 30px rgba(0, 0, 0, 0.5); }
+
+.welcome-text {
+  font-size: 1.2rem;
+  font-weigth: bold; }
+
+/*# sourceMappingURL=eww.css.map */
